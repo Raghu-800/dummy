@@ -1,2 +1,4 @@
 hi i am sumeet 
 i am an ec student
+welcome to the git learning 
+hopes u have enjoyed it
